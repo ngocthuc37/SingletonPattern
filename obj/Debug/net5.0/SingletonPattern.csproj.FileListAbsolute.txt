@@ -1,0 +1,16 @@
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\SingletonPattern.csproj.AssemblyReference.cache
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\SingletonPattern.AssemblyInfoInputs.cache
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\SingletonPattern.AssemblyInfo.cs
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\KienTrucPM\SingletonPattern\bin\Debug\net5.0\SingletonPattern.exe
+D:\KienTrucPM\SingletonPattern\bin\Debug\net5.0\SingletonPattern.deps.json
+D:\KienTrucPM\SingletonPattern\bin\Debug\net5.0\SingletonPattern.runtimeconfig.json
+D:\KienTrucPM\SingletonPattern\bin\Debug\net5.0\SingletonPattern.runtimeconfig.dev.json
+D:\KienTrucPM\SingletonPattern\bin\Debug\net5.0\SingletonPattern.dll
+D:\KienTrucPM\SingletonPattern\bin\Debug\net5.0\ref\SingletonPattern.dll
+D:\KienTrucPM\SingletonPattern\bin\Debug\net5.0\SingletonPattern.pdb
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\SingletonPattern.dll
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\ref\SingletonPattern.dll
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\SingletonPattern.pdb
+D:\KienTrucPM\SingletonPattern\obj\Debug\net5.0\SingletonPattern.genruntimeconfig.cache
